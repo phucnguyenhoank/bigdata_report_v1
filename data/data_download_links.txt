@@ -1,0 +1,10 @@
+
+Tập dữ liệu sử dụng cho mô hình SVD:
+https://mcauleylab.ucsd.edu/public_datasets/data/amazon_2023/benchmark/5core/timestamp_w_his/All_Beauty.train.csv.gz
+https://mcauleylab.ucsd.edu/public_datasets/data/amazon_2023/benchmark/5core/timestamp_w_his/All_Beauty.valid.csv.gz
+https://mcauleylab.ucsd.edu/public_datasets/data/amazon_2023/benchmark/5core/timestamp_w_his/All_Beauty.test.csv.gz
+
+Tập dữ liệu sử dụng cho các mô hình còn lại:
+https://mcauleylab.ucsd.edu/public_datasets/data/amazon_2023/benchmark/5core/timestamp_w_his/Arts_Crafts_and_Sewing.train.csv.gz
+https://mcauleylab.ucsd.edu/public_datasets/data/amazon_2023/benchmark/5core/timestamp_w_his/Arts_Crafts_and_Sewing.valid.csv.gz
+https://mcauleylab.ucsd.edu/public_datasets/data/amazon_2023/benchmark/5core/timestamp_w_his/Arts_Crafts_and_Sewing.test.csv.gz
